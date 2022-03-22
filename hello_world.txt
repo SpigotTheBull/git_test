@@ -1,1 +1,2 @@
 Hello, I've gone from having no clue to having some clue. Progress!
+Testing no message commit.
